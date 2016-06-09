@@ -957,6 +957,10 @@ from .vrt import VRTIE
 from .vube import VubeIE
 from .vuclip import VuClipIE
 from .vulture import VultureIE
+from .vvvvid import (
+    VvvvidIE,
+    VvvvidShowPlaylistIE
+)
 from .walla import WallaIE
 from .washingtonpost import (
     WashingtonPostIE,
